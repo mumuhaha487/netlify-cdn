@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  to = ["http://ipv6nas.0ha.top:5666/:splat","wss://ipv6nas.0ha.top:5666/:splat"]
+  to = "http://ipv6nas.0ha.top:5666/:splat"
   status = 200
   force = true
